@@ -1,0 +1,26 @@
+Stock,Sub-industry,Industry,Industry Group,Sector
+AD.AS,Food Retail,Food & Staples Retailing,Food & Staples Retailing,Consumer Staples
+AI.PA,Industrial Gases,Chemicals,Materials,Materials
+AIR.PA,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials
+ABI.BR,Brewers,Beverages,"Food, Beverage & Tobacco",Consumer Staples
+ASML.AS,Semiconductor Equipment,Semiconductors & Semiconductor,Semiconductors & Semiconductor,Information Technology
+CS.PA,Multi-line Insurance,Insurance,Insurance,Financials
+BBVA.MC,Diversified Banks,Banks,Banks,Financials
+SAN.MC,Diversified Banks,Banks,Banks,Financials
+BNP.PA,Diversified Banks,Banks,Banks,Financials
+BN.PA,Packaged Foods & Meats,Food Products,"Food, Beverage & Tobacco",Consumer Staples
+EL.PA,"Apparel, Accessories & Luxury","Textiles, Apparel & Luxury Goo",Consumer Durables & Apparel,Consumer Discretionary
+RMS.PA,"Apparel, Accessories & Luxury","Textiles, Apparel & Luxury Goo",Consumer Durables & Apparel,Consumer Discretionary
+IBE.MC,Electric Utilities,Electric Utilities,Utilities,Utilities
+ITX.MC,Apparel Retail,Specialty Retail,Retailing,Consumer Discretionary
+INGA.AS,Diversified Banks,Banks,Banks,Financials
+KER.PA,"Apparel, Accessories & Luxury","Textiles, Apparel & Luxury Goo",Consumer Durables & Apparel,Consumer Discretionary
+OR.PA,Personal Products,Personal Products,Household & Personal Products,Consumer Staples
+MC.PA,"Apparel, Accessories & Luxury","Textiles, Apparel & Luxury Goo",Consumer Durables & Apparel,Consumer Discretionary
+RI.PA,Distillers & Vintners,Beverages,"Food, Beverage & Tobacco",Consumer Staples
+PHIA.AS,Health Care Equipment,Health Care Equipment & Suppli,Health Care Equipment & Servic,Health Care
+SAF.PA,Aerospace & Defense,Aerospace & Defense,Capital Goods,Industrials
+SAN.PA,Pharmaceuticals,Pharmaceuticals,"Pharmaceuticals, Biotechnology",Health Care
+SU.PA,Electrical Components & Equipm,Electrical Equipment,Capital Goods,Industrials
+TTE.PA,Integrated Oil & Gas,"Oil, Gas & Consumable Fuels",Energy,Energy
+DG.PA,Construction & Engineering,Construction & Engineering,Capital Goods,Industrials
