@@ -10,15 +10,16 @@ This paper is about a classification prediction exercise in order to support inv
 
 Both investment and risk management strategies are built around the interpretation that a positive RV-IV spread prediction is indicative of a bear market to come as a result of higher upcoming volatility. The investment strategy, derived from SP500 GRU predictions, highlights that the GRU model does well in identifying a bear market and avoiding losses, albeit initially struggling to identify a bull market. The risk management strategy incorporates Eurostoxx 50 GRU predictions and machine learning techniques applied to volatilities and correlations to derive forward-looking risk measures in the case of an investment portfolio.
 
+
 ******************************* Main paper *******************************
 
----> "Long-Short Term Memory and Gated Recurrent Units as a support to investment and risk management strategies"
+"Long-Short Term Memory and Gated Recurrent Units as a support to investment and risk management strategies"
 
 ******************************* Supporting note *******************************
 
----> "Deep learning toolbox for classification prediction models"
+"Deep learning toolbox for classification prediction models"
 
-Supporting theory to the main paper. Theory around deep learning in a separate document for main paper readability reasons
+Supporting theory of the main paper. Complete theory around deep learning was put in a separate document for main paper readability reasons.
 
 ******************************* Model 1: SP500 Index *******************************
 
